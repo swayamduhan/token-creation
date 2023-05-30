@@ -1,5 +1,5 @@
 <h1> 💫Project Ikigai </h1>
-<p>Ikigai is a crypto token in Solidity created by Swayam Duhan as part of the 
+<p>Ikigai is a crypto token in Solidity created as part of the 
   <a href = "https://www.metacrafters.io/"> Metacrafters </a> final assessment for Solidity Beginners Program.</p>
 
 <h2> 🗒️Description </h2>
