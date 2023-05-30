@@ -9,7 +9,7 @@ The code contains a token minting and burning function as requested in the asses
 <ol> 
   <li> Copy the code written in <a href = "token-ikigai.sol"> token-ikigai.sol </a></li>
   <li> Open <a href = "https://remix.ethereum.org/"> Remix </a> IDE in your browser </li>
-  <li> Create a new file with any name followed by <italic>.sol</italic> extension </li>
+  <li> Create a new file with any name followed by <strong>.sol</strong> extension </li>
   <li> Paste the code in the file </li>
   <li> To compile the code either press Ctrl+S or click on the Solidity Compiler button on the left hand side with a S logo on it, choose any compiler version higher than or 0.8.0 and press COMPILE. </li>
   <li> Click on the Ethereum Logo below the Solidity Compiler button on the left hand side and click on DEPLOY to start interacting with the code. </li>
