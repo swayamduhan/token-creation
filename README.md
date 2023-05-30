@@ -19,7 +19,7 @@ The code contains a token minting and burning function as requested in the asses
 
 <h2> 🤍 Authors </h2>
 Swayam Duhan <br>
-<a href = "discordapp.com/users/swayamwins#5619">(@swayamwins#5619</a> @ Discord) <br>
+(<a href = "discordapp.com/users/swayamwins#5619">swayamwins#5619</a> @ Discord) <br>
 <a href = "https://twitter.com/swxyamfr?s=20"> Twitter </a>
 
 <h2> License </h2>
